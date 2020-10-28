@@ -1,0 +1,13 @@
+{
+	"parameter":
+	{
+		"website_name":"PythonEpoint",
+		"local_uri":"mysql+pymysql://root:@localhost/flask",
+		"footer":"PythonEpoint 2020",
+		"website_title":"Home - PythonEpoint",
+		"tagline":"Learn Programming In Easy Way",
+		"fb_url":"https://facebook.com/nitya.nand.98229",
+    	"Ins_url":"https://instagram.com/01nitya",
+        "You_url": "https://www.youtube.com/channel/UCrMMQirEvb4rQIpfXlENDVw"
+	}
+}
