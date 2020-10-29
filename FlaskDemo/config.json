@@ -2,7 +2,7 @@
 	"parameter":
 	{
 		"website_name":"PythonEpoint",
-		"local_uri":"mysql+pymysql://root:@localhost/flask",
+		"local_uri":"mysql+pymysql://root:@localhost/flaskwebsite",
 		"footer":"PythonEpoint 2020",
 		"website_title":"Home - PythonEpoint",
 		"tagline":"Learn Programming In Easy Way",
